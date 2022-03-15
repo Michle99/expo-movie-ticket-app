@@ -1,0 +1,44 @@
+{
+    "movies":[
+        {
+            "id": 1,
+            "name": "La La Land",
+            "image": "https://i.imgur.com/po7UezG.jpg",
+            "genre": "Drama/Romance",
+            "days": "Mondays",
+            "times": "10PM"
+        },
+        {
+            "id": 2,
+            "name": "Lo and Behold Reveries of the Connected World",
+            "image": "https://i.imgur.com/s106X7S.jpg",
+            "genre": "Documentary",
+            "days": "Wednesday",
+            "times": "10PM"
+        },
+        {
+            "id": 3,
+            "name": "La La Land",
+            "image": "https://i.imgur.com/po7UezG.jpg",
+            "genre": "Drama/Romance",
+            "days": "Mondays",
+            "times": "10PM"
+        },
+        {
+            "id": 4,
+            "name": "Jackie",
+            "image": "https://i.imgur.com/VqUi1sw.jpg",
+            "genre": "Drama/Biography",
+            "days": "Thurdays",
+            "times": "10PM"
+        },
+        {
+            "id": 5,
+            "name": "Paterson",
+            "image": "https://i.imgur.com/pE0C9E0.jpg",
+            "genre": "Drama/Comedy",
+            "days": "Fridays",
+            "times": "10PM"
+        }
+    ]
+}
